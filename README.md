@@ -1,8 +1,11 @@
 # k-scholar-bib
 한국어 논문 파일명 자동 변경기
+<img width="2400" height="1508" alt="1_" src="https://github.com/user-attachments/assets/39f5ecf1-0783-4410-b349-2eb36051923c" />
+
 
 - [구글 확장프로그램](https://chromewebstore.google.com/detail/gepadeoghpnmnfabhjeecibpledpejco?utm_source=item-share-cb)
-- [시연 동영상](https://www.youtube.com/watch?v=phEwhfnKhzU)
+- [시연 동영상](https://youtu.be/fKko-h0_1_Q?si=WYQB3JgquBWZcNVK)
+
 
 ---
 
